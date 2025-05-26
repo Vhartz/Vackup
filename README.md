@@ -1,4 +1,3 @@
-Claro! Abaixo está um modelo de `README.md` elaborado para o projeto **Vackup**, seguindo o estilo profissional e informativo, como você encontra em projetos populares como o do *Valculator*. Ele inclui descrição, funcionalidades, instalação, uso, execução como serviço, captura de tela (se desejar incluir futuramente), e informações para contribuidores.
 
 ---
 
