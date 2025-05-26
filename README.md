@@ -130,8 +130,3 @@ Por favor, abra uma issue para bugs, ideias ou melhorias.
 Distribuído sob a Licença MIT. Veja `LICENSE` para mais detalhes.
 
 ```
-
----
-
-Se quiser, posso salvar esse arquivo automaticamente no projeto ou incluir outras seções como changelog, badge de GitHub Actions, etc. Deseja que eu já o adicione no projeto `.zip`?
-```
