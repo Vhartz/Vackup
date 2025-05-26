@@ -1,0 +1,15 @@
+
+[Unit]
+Description=Vackup - Backup automático com Tkinter
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /opt/vackup/vackup/app.py
+WorkingDirectory=/opt/vackup/vackup
+Restart=always
+User=%u
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/%u/.Xauthority
+
+[Install]
+WantedBy=default.target
